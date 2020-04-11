@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29926.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UNOPS.Passenger", "UNOPS.Passenger\UNOPS.Passenger.csproj", "{31DB72E0-21A1-4CFC-A6A8-B3474FB5519C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{31DB72E0-21A1-4CFC-A6A8-B3474FB5519C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31DB72E0-21A1-4CFC-A6A8-B3474FB5519C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31DB72E0-21A1-4CFC-A6A8-B3474FB5519C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31DB72E0-21A1-4CFC-A6A8-B3474FB5519C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {85D3682A-8F22-4A16-918E-27A1D1E7C716}
+	EndGlobalSection
+EndGlobal
